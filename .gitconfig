@@ -1,0 +1,5 @@
+[user]
+	email = adarsha.pau@gmail.com
+	name = codeninja
+[http]
+	postBuffer = 524288000
